@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For TypeK Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TypeK	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Temp_C	KEYWORD2
+Temp_f	KEYWORD2
+mV_C	KEYWORD2
+mV_F	KEYWORD2
+inrange_mV	KEYWORD2
+inrange_C	KEYWORD2
+inrange_F	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
